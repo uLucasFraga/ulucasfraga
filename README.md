@@ -7,7 +7,6 @@ Então vai perfil em **PT-BR** porque sim! 🇧🇷
 ##### Primeiro: **#eleNunca**
 > Agora já posso brevemente me apresentar.
 
----
 
 ### Resumo hater:
 
