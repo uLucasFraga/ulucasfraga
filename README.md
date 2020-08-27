@@ -12,7 +12,7 @@ Então vai perfil em **PT-BR** porque sim! 🇧🇷
 
 Eu trabalho como **QA** mas pode ser também como **_QA Analyst, QA Engineer, Tester_** e outras nomenclaturas que só servem para segregar, aumentar o salário ou até mesmo virar um _"""popstar"""_ (risos) onde todo mundo faz (ou deveria fazer) a mesma coisa.
 
-Como podem ver acima, tenho minha própria opinião e a exponho em ambientes necessários e acabo me ferrando muitas vezes, mas o nome disso é vida né? :heartbeat:
+Como podem ver acima tenho minha própria opinião, e a exponho em ambientes necessários. Acabo me ferrando muitas vezes, mas o nome disso é vida né? :heartbeat:
 
 Hoje, trabalho como **QA** na [Noesis](https://www.noesis.pt/).
 Sou apaixonado por esportes, principalmente o **futebol**.
@@ -21,6 +21,7 @@ Sou apaixonado por esportes, principalmente o **futebol**.
 Sou o louco do compartilhamento de ideias, conteúdos, opiniões e experiências.
 Acredito que só assim me sentirei completo e conseguirei evoluir como pessoa e profissional.
 Portanto, **ajudo/participo/organizo/coordeno ou dou pitacos** em diversos **grupos/comunidades/forúns** da área.
+
 Em especial:
 
 - [Agile Testers](https://agiletesters.github.io/)
