@@ -10,11 +10,9 @@ Então vai perfil em **PT-BR** porque sim! 🇧🇷
 
 ### Resumo hater:
 
-Eu trabalho como **QA** mas pode ser também como **_QA Analyst, QA Engineer, Tester_** e outras nomenclaturas que só servem para segregar, aumentar o salário ou até mesmo virar um _"""popstar"""_ (risos) onde todo mundo faz (ou deveria fazer) a mesma coisa.
+Eu trabalho como **QA** mas pode ser também como **_QA Analyst, QA Engineer, Tester_** e outras nomenclaturas que só servem para segregar, aumentar o salário ou até mesmo virar um _"""popstar"""_ (risos) onde todo mundo faz (ou deveria fazer) a mesma coisa. :heartbeat:
 
-Como podem ver acima tenho minha própria opinião, e a exponho em ambientes necessários. Acabo me ferrando muitas vezes, mas o nome disso é vida né? :heartbeat:
-
-Hoje, trabalho como **QA** na [Noesis](https://www.noesis.pt/).
+Hoje, trabalho como **QA** no [C6 Bank](https://www.c6bank.com.br/).
 Sou apaixonado por esportes, principalmente o **futebol**.
 **Vascaíno fanático** que para tudo para ver o time ~fazendo merda~ jogando, seja onde for. :anger:
 
