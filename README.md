@@ -13,17 +13,22 @@ Então vai perfil em **PT-BR** porque sim! 🇧🇷
 Eu trabalho como **QA** mas pode ser também como **_QA Analyst, QA Engineer, Tester_** e outras nomenclaturas que só servem para segregar, aumentar o salário ou até mesmo virar um _"""popstar"""_ (risos) onde todo mundo faz (ou deveria fazer) a mesma coisa. :heartbeat:
 
 Hoje, trabalho como **QA** no [C6 Bank](https://www.c6bank.com.br/).
+
 Sou apaixonado por esportes, principalmente o **futebol**.
 **Vascaíno fanático** que para tudo para ver o time ~fazendo merda~ jogando, seja onde for. :anger:
+
 
 Sou o louco do compartilhamento de ideias, conteúdos, opiniões e experiências.
 Acredito que só assim me sentirei completo e conseguirei evoluir como pessoa e profissional.
 Portanto, **ajudo/participo/organizo/coordeno ou dou pitacos** em diversos **grupos/comunidades/forúns** da área.
 
+
 Em especial:
 
 - [Agile Testers](https://agiletesters.github.io/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
+
+---
 
 ### Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/-@ulucasfraga-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/ulucasfraga)](https://github.com/ulucasfraga)
