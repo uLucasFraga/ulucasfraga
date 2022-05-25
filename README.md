@@ -6,12 +6,12 @@
 
 ### Resumo:
 
-Eu trabalho como **QA** e/ou as outras nomenclaturas que conhecemos por aí hehehe...:heartbeat:
+Eu trabalho como **QA** e/ou as outras nomenclaturas que conhecemos por aí hehehe... 😆
 
 Hoje, trabalho como **QA** no [C6 Bank](https://www.c6bank.com.br/).
 
 Sou apaixonado por esportes, principalmente o **futebol**.
-**Vascaíno fanático** que para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. :anger:
+**Vascaíno fanático** que para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. 💢
 
 
 Sou movido por compartilhar de ideias, conteúdos, opiniões, dicas e experiências.
@@ -35,11 +35,11 @@ Em especial:
 <br />
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>adicionem-me e vamos trocar ideías!</b></em> :brown_heart:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>adicionem-me e vamos trocar ideías!</b></em> 🖤
 
 ###### Ah, uma nota importante:
 **Eu NãO UsO aS MiNHaS ReDeS SoCiAiS PaRa TraBaLHo, Ok?
-Se NoTaReM DiVerSaS BeSTeIrAs PoR Aí Já SaBeM o PoRQuE!** :boom:
+Se NoTaReM DiVerSaS BeSTeIrAs PoR Aí Já SaBeM o PoRQuE!** 💥
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
