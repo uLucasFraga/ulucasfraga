@@ -1,33 +1,28 @@
 ### Olá :octopus:, eu sou o [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">.
 
-##### Por que temos que traduzir pros gringo tudo e eles nada?
-Então vai perfil em **PT-BR** porque sim! 🇧🇷 
-
-
 ##### Primeiro: **#eleNunca**
-> Agora já posso brevemente me apresentar.
+> Já posso brevemente me apresentar.
 
 
-### Resumo hater:
+### Resumo:
 
-Eu trabalho como **QA** mas pode ser também como **_QA Analyst, QA Engineer, Tester_** e outras nomenclaturas que só servem para segregar, aumentar o salário ou até mesmo virar um _"""popstar"""_ (risos) onde todo mundo faz (ou deveria fazer) a mesma coisa. :heartbeat:
+Eu trabalho como **QA** e/ou as outras nomenclaturas que conhecemos por aí hehehe...:heartbeat:
 
 Hoje, trabalho como **QA** no [C6 Bank](https://www.c6bank.com.br/).
 
 Sou apaixonado por esportes, principalmente o **futebol**.
-**Vascaíno fanático** que para tudo para ver o time ~fazendo merda~ jogando, seja onde for. :anger:
+**Vascaíno fanático** que para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. :anger:
 
 
-Sou o louco do compartilhamento de ideias, conteúdos, opiniões e experiências.
+Sou movido por compartilhar de ideias, conteúdos, opiniões, dicas e experiências.
 Acredito que só assim me sentirei completo e conseguirei evoluir como pessoa e profissional.
 Portanto, **ajudo/participo/organizo/coordeno ou dou pitacos** em diversos **grupos/comunidades/forúns** da área.
 
 
 Em especial:
-
 - [Agile Testers](https://agiletesters.github.io/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
-
+- Muitos outros grupos de whatsapp hehe...
 ---
 
 ### Onde me encontrar:
@@ -43,7 +38,8 @@ Em especial:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>adicionem-me e vamos trocar ideías!</b></em> :brown_heart:
 
 ###### Ah, uma nota importante:
-**Eu NãO UsO aS MiNHaS ReDeS SoCiAiS ApENaS PaRa FiNs De TraBaLHo PoRQuE Eu AmO ViVeR e FaLaR MeRDaS!** :boom:
+**Eu NãO UsO aS MiNHaS ReDeS SoCiAiS PaRa TraBaLHo, Ok?
+Se NoTaReM DiVerSaS BeSTeIrAs PoR Aí Já SaBeM o PoRQuE!** :boom:
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
