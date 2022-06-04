@@ -1,10 +1,14 @@
 ### Olá :octopus:, eu sou o [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">.
 
 ##### Primeiro: **#eleNunca**
+
 > Já posso brevemente me apresentar.
 
+
 `npx ulucasfraga`
+
 https://www.npmjs.com/package/ulucasfraga
+
 
 ![npx ulucasfraga](https://i.imgur.com/T27IiGt.gif)
 
