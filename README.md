@@ -1,8 +1,6 @@
 ### Olá :octopus:, eu sou o [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">.
 
-##### Primeiro: **#eleNunca**
-
-> Já posso brevemente me apresentar.
+> Posso brevemente me apresentar.
 
 
 `npx ulucasfraga`
@@ -15,15 +13,15 @@ https://www.npmjs.com/package/ulucasfraga
 
 ### Resumo:
 
-Eu trabalho como **QA** e/ou as outras nomenclaturas que conhecemos por aí hehehe... 😆
+Além de trabalhar como um **QA**, sou apaixonado por inovações, estratégias e metodologias que envolvem o mundo tech. 😆
 
-Hoje, trabalho como **QA** no [C6 Bank](https://www.c6bank.com.br/).
+Hoje, eatou como **QA Engineer** no [C6 Bank](https://www.c6bank.com.br/).
 
-Sou apaixonado por esportes, principalmente o **futebol**.
-**Vascaíno fanático** que para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. 💢
+Viciado em **ASSISTIR** esportes, principalmente o **futebol**.
+**Vascaíno fanático** no qual para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. 💢
 
 
-Sou movido por compartilhar de ideias, conteúdos, opiniões, dicas e experiências.
+Sou movido por compartilhar ideias, conteúdos, opiniões, dicas e experiências.
 Acredito que só assim me sentirei completo e conseguirei evoluir como pessoa e profissional.
 Portanto, **ajudo/participo/organizo/coordeno ou dou pitacos** em diversos **grupos/comunidades/forúns** da área.
 
@@ -40,7 +38,7 @@ Em especial:
 [![Linkedin Badge](https://img.shields.io/badge/-ulucasfraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulucasfraga/)](https://www.linkedin.com/in/ulucasfraga/)
 [![Twitter Badge](https://img.shields.io/badge/-@ulucasfraga-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ulucasfraga)](https://twitter.com/ulucasfraga)
 [![Instagram Badge](https://img.shields.io/badge/-@lucasfraga-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lucasfraga/)](https://instagram.com/lucasfraga)
-[![Gmail Badge](https://img.shields.io/badge/-lucass.fragaa-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucass.fragaa@gmail.com)](mailto:lucass.fragaa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ulucasfraga-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ulucasfraga@gmail.com)](mailto:ulucasfraga@gmail.com)
 <br />
 
 
