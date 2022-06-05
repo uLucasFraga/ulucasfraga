@@ -15,7 +15,7 @@ https://www.npmjs.com/package/ulucasfraga
 
 Além de trabalhar como um **QA**, sou apaixonado por inovações, estratégias e metodologias que envolvem o mundo tech. 😆
 
-Hoje, eatou como **QA Engineer** no [C6 Bank](https://www.c6bank.com.br/).
+Hoje, estou como **QA Engineer** no [C6 Bank](https://www.c6bank.com.br/).
 
 Viciado em **ASSISTIR** esportes, principalmente o **futebol**.
 **Vascaíno fanático** no qual para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. 💢
