@@ -34,7 +34,7 @@ Em especial:
 
 ### Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/-@ulucasfraga-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/ulucasfraga)](https://github.com/ulucasfraga)
-[![Medium Badge](https://img.shields.io/badge/-@lucasfraga-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@lucasfraga)](https://medium.com/@lucasfraga)
+[![Medium Badge](https://img.shields.io/badge/-@ulucasfraga-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ulucasfraga)](https://medium.com/@ulucasfraga)
 [![Linkedin Badge](https://img.shields.io/badge/-ulucasfraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulucasfraga/)](https://www.linkedin.com/in/ulucasfraga/)
 [![Twitter Badge](https://img.shields.io/badge/-@ulucasfraga-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ulucasfraga)](https://twitter.com/ulucasfraga)
 [![Instagram Badge](https://img.shields.io/badge/-@lucasfraga-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lucasfraga/)](https://instagram.com/lucasfraga)
