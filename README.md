@@ -1,4 +1,4 @@
-### Hello! :octopus:, I'm [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">. :brazil:	:portugal:
+### Hello! :octopus:, I'm [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">. :brazil:	<span>&#x1f1e7;&#x1f1f7;</span>
 
 > I'll present myself.
 
