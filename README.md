@@ -1,6 +1,6 @@
-### Olá :octopus:, eu sou o [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">.
+### Hello! :octopus:, I'm [Lucas Fraga!](https://github.com/uLucasFraga?tab=repositories) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">. :brazil:	:portugal:
 
-> Posso brevemente me apresentar.
+> I'll present myself.
 
 
 `npx ulucasfraga`
@@ -11,28 +11,28 @@ https://www.npmjs.com/package/ulucasfraga
 ![npx ulucasfraga](https://i.imgur.com/T27IiGt.gif)
 
 
-### Resumo:
+### Summary:
 
-Além de trabalhar como um **QA**, sou apaixonado por inovações, estratégias e metodologias que envolvem o mundo tech. 😆
+In addition to working as a **QA**, I'm passionate about innovation, strategies and methodologies involving the tech world. 😆
 
-Hoje, estou como **QA Engineer** no [C6 Bank](https://www.c6bank.com.br/).
+Nowdays, I'm work on **QA Engineer** at [Integer](https://integerconsulting.pt/en/).
 
-Viciado em **ASSISTIR** esportes, principalmente o **futebol**.
-**Vascaíno fanático** no qual para tudo para ver o meu time ~fazendo merda~ jogando, seja onde for. 💢
-
-
-Sou movido por compartilhar ideias, conteúdos, opiniões, dicas e experiências.
-Acredito que só assim me sentirei completo e conseguirei evoluir como pessoa e profissional.
-Portanto, **ajudo/participo/organizo/coordeno ou dou pitacos** em diversos **grupos/comunidades/forúns** da área.
+Addicted to **WATCHING** sports, especially **soccer**.
+**Vascaíno fanatic** in which I stop everything to see my team ~doing shit~ and playing, wherever it is. 💢
 
 
-Em especial:
+I'm driven by sharing ideas, content, opinions, tips and experiences.
+I believe this is the only way I'll feel complete and evolve as a person and professional.
+Therefore, I **help/participate/organize/coordinate or give input** in various **groups/communities/forums** in the area.
+
+
+In special:
 - [Agile Testers](https://agiletesters.github.io/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
-- Muitos outros grupos de whatsapp hehe...
+- Many other whatsapp groups hehe...
 ---
 
-### Onde me encontrar:
+### Where to find me?
 [![Github Badge](https://img.shields.io/badge/-@ulucasfraga-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/ulucasfraga)](https://github.com/ulucasfraga)
 [![Medium Badge](https://img.shields.io/badge/-@ulucasfraga-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ulucasfraga)](https://medium.com/@ulucasfraga)
 [![Linkedin Badge](https://img.shields.io/badge/-ulucasfraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulucasfraga/)](https://www.linkedin.com/in/ulucasfraga/)
@@ -42,11 +42,9 @@ Em especial:
 <br />
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>adicionem-me e vamos trocar ideías!</b></em> 🖤
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>add me and let's exchange ideas!</b></em> 🖤
 
-###### Ah, uma nota importante:
-**Eu NãO UsO aS MiNHaS ReDeS SoCiAiS PaRa TraBaLHo, Ok?
-Se NoTaReM DiVerSaS BeSTeIrAs PoR Aí Já SaBeM o PoRQuE!** 💥
+That's all and welcome. <3
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
