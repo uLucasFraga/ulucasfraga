@@ -8,7 +8,7 @@
 https://www.npmjs.com/package/ulucasfraga
 
 
-![npx ulucasfraga](https://i.imgur.com/T27IiGt.gif)
+![npx ulucasfraga](./docs/npx_ulucasfraga.gif)
 
 
 ### Summary:
