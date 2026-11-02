@@ -1,5 +1,5 @@
 <a href="https://ulucasfraga.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF79C6&background=282A3600&vCenter=true&width=640&lines=Hi%2C+I'm+Lucas+Fraga;Senior+QA+Automation+Specialist;I+make+release+day+the+best+day+of+the+sprint." alt="Hi, I'm Lucas Fraga. Senior QA Automation Specialist. I make release day the best day of the sprint." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF79C6&background=282A3600&vCenter=true&width=640&lines=Hi%2C+I'm+Lucas+Fraga;Senior+QA+Automation+Specialist;I+turn+complex+releases+into+fun%2C+reliable+days." alt="Hi, I'm Lucas Fraga. Senior QA Automation Specialist. I turn complex releases into fun, reliable days." />
 </a>
 
 QA automation since 2015, senior since 2019, based in Lisbon 🇵🇹, born in Rio 🇧🇷. I build quality in from the first refinement: test strategy, testability and risk analysis before a line of code, then **web, API, mobile and performance** automation in CI, so every release ships with evidence instead of hope.
