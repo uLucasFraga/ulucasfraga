@@ -80,6 +80,10 @@ npx ulucasfraga
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [A linha tênue entre o uso da iA e a iQA!](https://medium.com/@ulucasfraga/a-linha-t%C3%AAnue-entre-o-uso-da-ia-e-a-iqa-2a55008f1cde?source=rss-2b50b0ce9651------2)
+- [Testando seu “contrato” com o restassured](https://medium.com/assertqualityassurance/testando-seu-contrato-com-o-restassured-f0e974fb9bcb?source=rss-2b50b0ce9651------2)
+- [Setting Cypress and Cucumber in e2e tests](https://medium.com/assertqualityassurance/setting-cypress-and-cucumber-in-e2e-tests-6239adac1077?source=rss-2b50b0ce9651------2)
+- [Element doesn’t load properly in the browser using Protractor? Let’s solve it!](https://medium.com/assertqualityassurance/element-doesnt-load-properly-in-the-browser-using-protractor-let-s-solve-it-8381b71d3956?source=rss-2b50b0ce9651------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity
