@@ -43,11 +43,11 @@ expect(qaEngineersLed).toBeLessThanOrEqual(8);          // 3 time zones
 | Mobile | Appium, XCUITest, BrowserStack |
 | Performance | k6, JMeter, Locust, Artillery |
 | CI/CD and cloud | **GitHub Actions**, **Jenkins**, GitLab CI, Azure DevOps, CircleCI, Docker, Kubernetes, AWS, Terraform |
-| Languages and data | **Java**, **TypeScript**, JavaScript, Python, Ruby, C#, PostgreSQL, MySQL, MongoDB, Redis |
+| Languages and data | **JavaScript**, **TypeScript**, Java, Python, Ruby, C#, PostgreSQL, MySQL, MongoDB, Redis |
 | Reporting | **Allure**, Xray, **Jira**, Confluence, SonarQube |
 | AI-assisted testing | **Claude Code**, MCP, Kiro |
 
-<sub>Bold: what I use every week right now.</sub>
+<sub>Bold: what I use every week right now. Day to day I write JavaScript and TypeScript first, and Java when the stack calls for it. My public repositories are older study kits and still lean on Java.</sub>
 
 ## Starter kits I share
 
@@ -88,7 +88,7 @@ npx ulucasfraga
 
 ## Activity
 
-<img src="images/userstats.svg" alt="GitHub activity statistics for uLucasFraga" width="100%">
+<img src="images/userstats.svg" alt="GitHub activity statistics for uLucasFraga" width="380">
 
 ---
 
