@@ -15,7 +15,7 @@ https://www.npmjs.com/package/ulucasfraga
 
 In addition to working as a **QA**, I'm passionate about innovation, strategies and methodologies involving the tech world. 😆
 
-Nowdays, I'm work on **QA Engineer** at [Integer](https://integerconsulting.pt/en/).
+Nowdays, I'm work on **QA Engineer**.
 
 Addicted to **WATCHING** sports, especially **soccer**.
 **Vascaíno fanatic** in which I stop everything to see my team ~doing shit~ and playing, wherever it is. 💢
