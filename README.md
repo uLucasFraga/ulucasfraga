@@ -47,7 +47,7 @@ expect(qaEngineersLed).toBeLessThanOrEqual(8);          // 3 time zones
 | Reporting | **Allure**, Xray, **Jira**, Confluence, SonarQube |
 | AI-assisted testing | **Claude Code**, MCP, Kiro |
 
-<sub>Bold: what I use every week right now. Day to day I write JavaScript and TypeScript first, and Java when the stack calls for it. My public repositories are older study kits and still lean on Java.</sub>
+<sub>Bold: what I use every week right now. Day to day I write JavaScript and TypeScript first, and Java when the stack calls for it. My public repositories are older study kits and do not reflect my current work yet.</sub>
 
 ## Starter kits I share
 
