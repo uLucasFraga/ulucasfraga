@@ -27,7 +27,7 @@ Banking, payments, media, telecom, retail and insurance. Fully remote since 2019
 
 ```ts
 expect(suiteRuntime).toBe('45m');                       // was 4h, large retail platform
-expect(regressionCycle).toBe('1 day');                  // was 1 week, 5M+ daily users
+expect(regressionCycle).toBe('8h');                    // was 5 days, payments gateway
 expect(dailyTransactions).toBeGreaterThan(1_000_000);   // digital bank: PIX, cards, transfers
 expect(peakUsers).toBe(100_000);                        // load-tested before launch
 expect(criticalBugsInProd).toBe(0);                     // across 30+ major releases
