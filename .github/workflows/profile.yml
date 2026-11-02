@@ -1,0 +1,33 @@
+name: Refresh profile README
+
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    name: Activity statistics image
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          image-file: images/userstats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  writing:
+    name: Latest Medium posts
+    needs: stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://medium.com/feed/@ulucasfraga'
+          max_post_count: 4
