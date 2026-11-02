@@ -1,8 +1,8 @@
 <a href="https://ulucasfraga.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF79C6&background=282A3600&vCenter=true&width=640&lines=Hi%2C+I'm+Lucas+Fraga;Senior+QA+Automation+Engineer;I+make+releases+boring." alt="Hi, I'm Lucas Fraga. Senior QA Automation Engineer. I make releases boring." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF79C6&background=282A3600&vCenter=true&width=640&lines=Hi%2C+I'm+Lucas+Fraga;Senior+QA+Automation+Specialist;I+make+releases+boring." alt="Hi, I'm Lucas Fraga. Senior QA Automation Specialist. I make releases boring." />
 </a>
 
-QA automation engineer since 2015, based in Lisbon 🇵🇹, born in Rio 🇧🇷. I build the tests that catch bugs before users do, across **web, API, mobile and performance**, and wire them into CI so every deploy has to earn its way to production.
+QA automation since 2015, senior since 2019, based in Lisbon 🇵🇹, born in Rio 🇧🇷. I build the tests that catch bugs before users do, across **web, API, mobile and performance**, and wire them into CI so every deploy has to earn its way to production.
 
 Banking, payments, media, telecom, retail and insurance. Fully remote since 2019, with teams in Brazil, the US and Portugal.
 
